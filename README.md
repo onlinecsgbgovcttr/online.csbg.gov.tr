@@ -1,5 +1,7 @@
 
 Kare Kod Validasyonu (QR Code Validation)
+![image](https://github.com/user-attachments/assets/ce3aee72-ca05-46fe-b8d4-d23cd3204b18)
+
 Bilgiler
  
 Başvuru No:58039/2024
